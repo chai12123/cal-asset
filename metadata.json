@@ -1,0 +1,8 @@
+{
+  "name": "เครื่องคำนวณค่าโอนบ้าน-ที่ดิน",
+  "description": "เว็บแอปคำนวณค่าโอนบ้าน-ที่ดิน สำหรับนายหน้าอสังหาริมทรัพย์และคนซื้อ-ขายบ้านในประเทศไทย อิงมาตรการปี 2568-2569",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
